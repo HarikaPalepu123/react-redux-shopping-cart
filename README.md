@@ -56,7 +56,6 @@ npm start
 ### Cart Page
 ![Cart Page](./cart.png)
 
-
 ## 👩‍💻 Author
 
 - Name: Harika  
