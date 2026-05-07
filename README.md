@@ -38,7 +38,6 @@ src/
 ├── App.js
 ├── App.css
 └── index.js
----
 
 ## 🚀 Installation
 
