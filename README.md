@@ -46,7 +46,6 @@ src/
 npm install
 npm start
 
-
 ## 👩‍💻 Author
 
 - Name: Harika  
