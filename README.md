@@ -39,11 +39,14 @@ src/
 ├── App.css
 └── index.js
 
+
+
 ## 🚀 Installation
 
 ```bash
 npm install
 npm start
+
 
 ## 👩‍💻 Author
 
