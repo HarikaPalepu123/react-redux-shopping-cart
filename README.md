@@ -29,7 +29,6 @@ A simple e-commerce web application built using React.js and Redux Toolkit. This
 
 ## 📁 Project Structure
 
-```text
 src/
 ├── components/
 ├── pages/
@@ -39,7 +38,7 @@ src/
 ├── App.css
 └── index.js
 
-
+---
 
 ## 🚀 Installation
 
