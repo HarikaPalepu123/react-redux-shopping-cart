@@ -38,7 +38,6 @@ src/
 ├── App.js
 ├── App.css
 └── index.js
-
 ---
 
 ## 🚀 Installation
@@ -47,6 +46,7 @@ src/
 npm install
 npm start
 
+---
 
 ## 📸 Screenshots
 
