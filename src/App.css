@@ -4,7 +4,6 @@
   box-sizing: border-box;
   font-family: Arial;
 }
-/* NAVBAR */
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -68,22 +67,16 @@ html, body,#root {
   font-size: 14px;
   color: #333;
 }
-
-/* TITLE */
 .title {
   text-align: center;
   margin: 20px 0;
 }
-
-/* PRODUCT GRID */
 .products, .cart {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
 }
-
-/* CARD */
 .product {
   width: 200px;
   padding: 15px;

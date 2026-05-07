@@ -24,7 +24,6 @@ function App() {
         </div>
 
         <Footer />
-
       </div>
 
     </BrowserRouter>
