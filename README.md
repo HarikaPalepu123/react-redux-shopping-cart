@@ -39,9 +39,13 @@ src/
 ├── App.css
 └── index.js
 
-
 ## 🚀 Installation
 
 ```bash
 npm install
 npm start
+
+## 👩‍💻 Author
+
+- Name: Harika  
+- GitHub: https://github.com/HarikaPalepu123
