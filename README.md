@@ -55,6 +55,10 @@ npm start
 ### Cart Page
 ![Cart Page](./cart.png)
 
+## 🌐 Live Demo
+
+https://react-redux-shopping-cart-pi.vercel.app
+
 ## 👩‍💻 Author
 
 - Name: Harika  
